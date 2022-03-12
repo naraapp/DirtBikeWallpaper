@@ -2,12 +2,12 @@
   "Ads": [
     {
       "select_main_ads": "STARTAPP",
-      "select_backup_ads":"",
+      "select_backup_ads":"APPLOVIN-D",
       "main_ads_banner": "",
       "main_ads_intertitial":"",
-      "backup_ads_banner":"",
-      "backup_ads_intertitial":"",
-      "interval_intertitial": 2,
+      "backup_ads_banner":"45368f723bdaef7d",
+      "backup_ads_intertitial":"5775dc8a6b750b3f",
+      "interval_intertitial": 3,
       "initialize_sdk":"203598386",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
